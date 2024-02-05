@@ -30,9 +30,13 @@ Corresponds to the representative state given in figure 2. The columns in these 
 
 Corresponds to figure 4 (this csv is formatted as above).
 
-**A10_rep.csv**
+**A10_rep_fig_5.csv**
 
-Corresponds to figure 5 (see above for formatting).
+Corresponds to figure 5 (right hand figure, see above for formatting).
+
+**A7_rep_fig_5.csv**
+
+Corresponds to figure 5 (left hand figure, see above for formatting).
 
 **A10_rep_gamma/kappa/rho.csv**
 
