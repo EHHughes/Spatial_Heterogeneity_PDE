@@ -14,6 +14,10 @@ This file handles the case where $\Delta_t = 10^{-2}$ in figure 8. Otherwise it 
 
 Produces the output for figure 17.
 
+**advection_with_varying_rho0.csv**
+
+Data for figure 17.
+
 **toy_sim_double_domain**
 
 Code to produce the 1D solution on a double width domain (e.g. figure S1). With appropriate modifications it can also be used to reproduce figure 1.
