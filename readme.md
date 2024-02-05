@@ -42,7 +42,7 @@ These files correspond to the representative states discussed in figures 12, 14,
 
 These files correspond to figures 6, 11, 13, and 15. The first column gives the proportion of cells invaded at $t=10$ for varying $T$ while the second column gives the corresponding values of $T$.
 
-**dist_cells\*.csv**
+**dist_cells.csv**
 
 Corresponds to figure 7. Each entry is the distance between an invaded cell and the initial condition.
 
