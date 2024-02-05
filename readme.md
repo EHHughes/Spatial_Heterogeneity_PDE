@@ -1,4 +1,4 @@
-This repository contains the data used in Hughes et al (under review). Representative code used to generate the data is also provided. Please contact Elliott Hughes at elliott.hughes@rebuen.ox.ac.uk for more information.
+This repository contains the data used in Hughes et al (under review). Representative code used to generate the data is also provided. Please contact Elliott Hughes at elliott.hughes@maths.ox.ac.uk for more information.
 
 <font size = 5>Index<font size = 2>
 
@@ -42,9 +42,9 @@ These files correspond to the representative states discussed in figures 12, 14,
 
 These files correspond to figures 6, 11, 13, and 15. The first column gives the proportion of cells invaded at $t=10$ for varying $T$ while the second column gives the corresponding values of $T$.
 
-**dist_cells.csv**
+**dist_cells.csv** and **dist_cells_flat.csv**
 
-Corresponds to figure 7. Each entry is the distance between an invaded cell and the initial condition.
+Corresponds to figure 7. Each entry is the distance between an invaded cell and the initial condition for varying rho_0 (dist_cells.csv) and for constant rho_0 (dist_cells_flat.csv).
 
 **mean\*\_list_\*\.csv**
 
