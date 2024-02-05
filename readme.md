@@ -54,6 +54,10 @@ Corresponds to figure 7. Each entry is the distance between an invaded cell and 
 
 Corresponds to figure 8-10, 11, 13, and 15. The first column gives the average distance of invaded cells to the initial condition (or the curve fitted to this data for mean_list_fitted_curve_const_rho.csv or mean_list_fitted_curve_vary_rho.csv), while the second column gives the current time.
 
+**mean_list_t_fine.csv**
+
+Fine t (e.g. $\Delta_t = 10^{-2}$) output for figures 8 and 9 (see fine_t.py for code).
+
 **upper/lower\*_int_list\*.csv**
 
 Gives the upper and lower intervals for figure 10 (upper/lower_init_list.csv) and S2-S10. Uses the same format as mean_list.csv.
